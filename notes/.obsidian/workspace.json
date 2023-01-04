@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "ff6b1763b59ccf3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cebfebb2377e342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "006ca3620f67f262",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1f496fa80060e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kvm/kvm qemu libvirt install.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2e1456706ada570",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb14278926617d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a299435094354a32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18cb2ed7d8a07502",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6bd2ca506aa842c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a2c8caec7c395d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2e7d860040e5fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "764d343dc0f68feb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kvm/kvm qemu libvirt install.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ffb1a0c3d66919a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kvm/kvm qemu libvirt install.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd788db020cfd47f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2dda641706e6dc10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kvm/kvm qemu libvirt install.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a299435094354a32",
+  "lastOpenFiles": [
+    "kvm/kvm qemu libvirt install.md",
+    "kvm qemu libvirt.md",
+    "obsidian makdown syntax.md"
+  ]
+}
